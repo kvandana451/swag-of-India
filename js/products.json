@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "dummy title",
+    "price": 540,
+    "image": "/images/product1.png",
+    "rating": 3
+  },
+  {
+    "id": 2,
+    "title": "awesome product",
+    "price": 680,
+    "image": "/images/product2.png",
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "title": "dummy title",
+    "price": 720,
+    "image": "/images/product3.png",
+    "rating": 2
+  },
+  {
+    "id": 4,
+    "title": "awesome product",
+    "price": 550,
+    "image": "/images/product4.png",
+    "rating": 3
+  },
+  {
+    "id": 5,
+    "title": "dummy title",
+    "price": 940,
+    "image": "/images/product5.png",
+    "rating": 5
+  },
+  {
+    "id": 6,
+    "title": "awesome product",
+    "price": 640,
+    "image": "/images/product6.png",
+    "rating": 5
+  }
+]
